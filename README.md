@@ -1,4 +1,4 @@
-# GeneQuest: The Central Dogma Adventure
+# **GeneQuest: The Central Dogma Adventure**
 
 **Genre**: Educational/Strategy
 
@@ -8,7 +8,7 @@
 
 GeneQuest is a strategy game that takes players on a journey through the central dogma of molecular biology. Players will start as a novice biologist tasked with understanding and manipulating genetic information to solve puzzles, conduct experiments, and ultimately unlock the secrets of life.
 
-**Gameplay Features:**
+## **Gameplay Features:**
 
 1. Story Mode: Players embark on a quest to uncover the mysteries of genetics. They progress through various levels, each presenting unique challenges related to DNA replication, transcription, and translation.
 
